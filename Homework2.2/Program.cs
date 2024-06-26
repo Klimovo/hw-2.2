@@ -20,5 +20,7 @@ class Program
 
         Console.WriteLine("Результат фільтрації:");
         Console.WriteLine(filteredString);
+
+        //commit
     }
 }
